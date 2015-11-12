@@ -5,7 +5,7 @@ Create your own lyrics site with this free lyrics site script.
 <h2>About Lyrics Site Script Free</h2>
 This lyrics site script contains over 390,000 lyrics as well as 16,500 album artwork images. It allows you to create a music lyrics repository packed full of content. 
 
-This is a community based release that is supplied without support or liability. You are free to use the fonts site script as you wish. The only restriction to this PHP script is that this README file must not be edited or deleted. 
+This is a community based release that is supplied without support or liability. You are free to use the lyrics site script as you wish. The only restriction to this PHP script is that this README file must not be edited or deleted. 
 
 <h2>Features:</h2>
 - Written in php/mysql with access to 100% of the source code.
